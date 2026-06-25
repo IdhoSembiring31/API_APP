@@ -7,7 +7,7 @@ Aplikasi **ShopCatalog** adalah katalog produk e‑commerce yang dibangun dengan
 </p>
 
 ---
-
+LINK EXPO : https://snack.expo.dev/@idhosembiring3107/api-app
 ## 📋 Daftar Isi
 - [✨ Fitur](#-fitur)
 - [📸 Screenshot](#-screenshot)
