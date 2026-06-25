@@ -61,7 +61,7 @@ Berikut tampilan aplikasi dari **Expo Go**:
 
 | Favorit – Hanya Favorit | Detail Produk (Modal) |
 |------------------------|-----------------------|
-| <img src="https://github.com/user-attachments/assets/a7f28382-4f0f-41ca-945c-539192654920" width="250" alt="Favorites only" /> | <img width="250" height="1280" alt="image" src="https://github.com/user-attachments/assets/a9b59dd2-d82b-470e-99b9-bb7e158cae5c" />
+| <img src="https://github.com/user-attachments/assets/a7f28382-4f0f-41ca-945c-539192654920" width="250" alt="Favorites only" /> | <img width="250"  alt="image" src="https://github.com/user-attachments/assets/a9b59dd2-d82b-470e-99b9-bb7e158cae5c" />
  |
 
 ---
